@@ -19,7 +19,6 @@ This directory contains the **Next.js 16** full-stack web application for **Civi
 6. [Local Setup & Development](#-local-setup--development)
 7. [Environment Variables](#-environment-variables)
 8. [Available NPM Commands](#-available-npm-commands)
-9. [Default Admin Credentials](#-default-admin-credentials)
 
 ---
 
@@ -153,10 +152,3 @@ Visit the app:
 | `npm run db:seed` | Runs seed script (`prisma/seed.ts`) to populate default data |
 | `npm run db:studio` | Launches visual Prisma Studio GUI in browser |
 | `npm run lint` | Runs ESLint validation |
-
----
-
-## 🔐 Default Admin Credentials
-
-- **Email**: `admin@civic.gov`
-- **Password**: `admin123`

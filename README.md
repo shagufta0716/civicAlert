@@ -29,7 +29,6 @@
 10. [Step-by-Step Installation & Local Run Guide](#-step-by-step-installation--local-run-guide)
 11. [Sample Test Cases & Prediction Behavior](#-sample-test-cases--prediction-behavior)
 12. [Environment Configuration](#-environment-configuration)
-13. [Default Admin Credentials](#-default-admin-credentials)
 
 ---
 
@@ -424,15 +423,6 @@ Try these sample complaints in the portal to observe the AI's triage accuracy:
 | *"Live sparking wire hanging from electric pole outside city hospital"* | 🔴 **Critical** | Triggers Life-Danger (+6) and overrides any model hesitation. |
 | *"Drinking water pipeline leaking for 2 days, clean water is wasting on street"* | 🟡 **Medium** | Standard municipal maintenance issue. |
 | *"Park bench paint is slightly faded, please repaint whenever possible"* | 🟢 **Low** | Dampeners (`slightly`, `faded`, `whenever`) set priority to Low. |
-
----
-
-## 🔒 Default Admin Credentials
-
-When running `npx prisma db seed`, the database is populated with an initial administrator:
-- **URL**: `http://localhost:3000/admin/login`
-- **Email**: `admin@civic.gov`
-- **Password**: `admin123`
 
 ---
 
