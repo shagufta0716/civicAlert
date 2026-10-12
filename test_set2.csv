@@ -1,0 +1,25 @@
+complaint_text,category,priority
+"Transformer on our street caught fire and is burning right now",Electricity,Critical
+"Gas ki badbu aa rahi hai gali me, kuch log behosh ho gaye",Gas Leak,Critical
+"Child fell into the open drain near the park, please send help",Drainage,Critical
+"Compound wall of the school is tilting and the cracks are widening daily",Building Safety,Critical
+"Bijli ka taar sadak par gira hai aur usme current aa raha hai",Electricity,Critical
+"A truck rammed the bridge railing and half of it hangs over the river",Building Safety,Critical
+"Water supply has been cut for five days in our whole colony",Water,High
+"Mosquitoes are breeding in the choked drain and many kids have fever",Drainage,High
+"Garbage is piled on the road for a week and stinks, people are falling sick",Garbage,High
+"Pothole near the school gate is deep and auto rickshaws are tilting",Road,High
+"Naale ka ganda pani ghar ke andar aa gaya hai",Drainage,High
+"Dead cow lying on the highway causing a traffic jam",Garbage,High
+"Streetlight on the corner flickers every night",Electricity,Medium
+"Water tanker comes late every day and we wait for hours",Water,Medium
+"Road near the bus stop has many small cracks",Road,Medium
+"Dustbin at the corner is full and smells bad",Garbage,Medium
+"Naal me pani bahut kam aata hai subah ke time",Water,Medium
+"Park ke jhoole toot gaye hain aur bachche khel nahi paate",Public Property,Medium
+"Please repaint the school boundary wall, the colour has faded",Public Property,Low
+"Dim light in the corridor of the community hall",Electricity,Low
+"Water cooler near the park is not very clean",Public Property,Low
+"Few weeds growing beside the footpath",Public Property,Low
+"Colony notice board glass is a bit dusty",Public Property,Low
+"Kachre ka dibba thoda aage rakh dijiye",Garbage,Low

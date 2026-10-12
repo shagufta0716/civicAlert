@@ -1,0 +1,61 @@
+complaint_text,category,priority
+"Live electric wire is hanging from the pole at the chowk, kids play right below it",Electricity,Critical
+"Transformer near our colony blasted with a loud bang and is on fire",Electricity,Critical
+"Sadak ke beech me manhole khula pada hai aur raat ko dikhta nahi, do log gir chuke hain",Road,Critical
+"Strong LPG smell coming from the underground pipe near the market, people are feeling dizzy",Gas Leak,Critical
+"The old water tank wall has cracked badly and is leaning toward the houses",Building Safety,Critical
+"A tree has fallen on an auto rickshaw on the main road, people are trapped",Other,Critical
+"Huge crater on the highway service road, a truck tipped over this morning",Road,Critical
+"Drain cover missing in front of the primary school gate, a child fell in yesterday",Drainage,Critical
+"Slab of the bridge railing has broken off, vehicles can fall into the nala",Building Safety,Critical
+"Bijli ke khambe se chingari nikal rahi hai aur barish ho rahi hai, bahut khatra hai",Electricity,Critical
+"Gas cylinder pipeline is leaking inside the community kitchen near the hospital",Gas Leak,Critical
+"Footpath slab collapsed over an open drain next to the bus stand, an old woman got injured",Drainage,Critical
+"Building under construction next to our house has big cracks and workers say it may fall",Building Safety,Critical
+"Ek bada gaddha hai sadak par aur kal raat ek bike wala gir kar behosh ho gaya",Road,Critical
+"Fallen electric pole is lying across the road, the wires are still live",Electricity,Critical
+"No electricity in our block for four days, the transformer was never repaired",Electricity,High
+"Sewage water is flooding into ground floor houses since morning",Drainage,High
+"Drinking water supply has dirty brown colour and people have got stomach infection",Water,High
+"Garbage heap has not been lifted for ten days and now blocks half the lane",Garbage,High
+"Water main pipe burst and the whole road is under water",Water,High
+"Dead dog rotting near the school wall for two days",Garbage,High
+"Stray dogs bit three kids in our lane this week",Other,High
+"Pothole on the flyover approach where bikes keep skidding",Road,High
+"Streetlights are off on the whole stretch, women are scared to walk after dark",Electricity,High
+"Naale ka paani sadak par bah raha hai aur machhar bahut ho gaye hain, log bimar pad rahe hain",Drainage,High
+"Loose electric wires hanging very low across the lane",Electricity,High
+"Burning garbage is filling the colony with smoke, an asthma patient is suffering",Garbage,High
+"Broken balcony railing of the government quarters on the first floor",Building Safety,High
+"Pani ki supply 6 din se band hai, tanker ka bhi intezaam nahi",Water,High
+"A big branch is hanging over the road near the school and may fall any time",Other,High
+"Streetlight on our lane does not work, been like this for a week",Electricity,Medium
+"Garbage truck skips our street twice a week",Garbage,Medium
+"Water pressure drops every evening and we get very little water",Water,Medium
+"Several small potholes after the rain on the inner road",Road,Medium
+"Park swings are broken and kids cannot use them",Public Property,Medium
+"Drain is half full of plastic bottles and smells bad",Drainage,Medium
+"Bus shelter roof has a leak, commuters get wet",Public Property,Medium
+"Dustbin near the gate is overflowing",Garbage,Medium
+"Light bar bar chali jati hai raat me, mohalla andhera ho jata hai",Electricity,Medium
+"Road edges are broken and uneven near the temple lane",Road,Medium
+"Public toilet has no water and is very dirty",Public Property,Medium
+"Speed breaker has worn out and is not visible",Road,Medium
+"Tap water smells slightly of chlorine but is clear",Water,Medium
+"Wall of the community hall is peeling and has damp patches",Building Safety,Medium
+"Loudspeaker noise till midnight from the roadside stall",Other,Medium
+"Park bench paint is fading",Public Property,Low
+"Zebra crossing lines are faded and should be repainted",Road,Low
+"Streetlight is a little dim compared to others",Electricity,Low
+"Grass in the park is overgrown",Public Property,Low
+"Please move the dustbin a few metres away from my gate",Garbage,Low
+"Name board of the colony is dirty and needs cleaning",Public Property,Low
+"Sadak ke kinare ka paint ghis gaya hai",Road,Low
+"Small crack in the plaster of the compound wall, no danger",Building Safety,Low
+"Tap in the park drips slowly",Water,Low
+"Need a bench at the bus stop",Public Property,Low
+"Drain on the corner could do with cleaning sometime this month",Drainage,Low
+"Posters are pasted on the wall of the community hall",Other,Low
+"Garden lights in the park are slightly yellow",Electricity,Low
+"Park gate squeaks when opened",Public Property,Low
+"Thoda kachra road ke kinare pada hai, jab time mile utha lena",Garbage,Low

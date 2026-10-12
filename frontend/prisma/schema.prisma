@@ -1,0 +1,35 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider  = "postgresql"
+  url       = env("DATABASE_URL")
+  directUrl = env("DATABASE_URL")
+}
+
+model Complaint {
+  id            Int      @id @default(autoincrement())
+  complaintText String   @db.Text
+  category      String?
+  location      String
+  priority      String   // Critical | High | Medium | Low
+  confidence    Float    @default(0)
+  reasons       String?  @db.Text   // JSON list: why the AI/rules chose this priority
+  ruleRaised    Boolean  @default(false) // true if the safety rules raised the AI's priority
+  status        String   @default("Submitted") // Submitted | In Progress | Resolved
+  submittedBy   String?
+  createdAt     DateTime @default(now())
+  updatedAt     DateTime @updatedAt
+}
+
+model Admin {
+  id        Int      @id @default(autoincrement())
+  email     String   @unique
+  password  String   // bcrypt hashed
+  name      String?
+  createdAt DateTime @default(now())
+}

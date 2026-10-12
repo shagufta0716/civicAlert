@@ -1,0 +1,54 @@
+{
+  "selected_model": "LogReg + word+char",
+  "grouped_cv_on_train": {
+    "LogReg + word": {
+      "macro_f1": 0.406,
+      "accuracy": 0.437
+    },
+    "LogReg + word+char": {
+      "macro_f1": 0.428,
+      "accuracy": 0.457
+    },
+    "LinearSVC + word+char": {
+      "macro_f1": 0.424,
+      "accuracy": 0.46
+    }
+  },
+  "test_set": {
+    "accuracy": 0.617,
+    "macro_f1": 0.618,
+    "n": 60
+  },
+  "confusion_matrix_labels": [
+    "Low",
+    "Medium",
+    "High",
+    "Critical"
+  ],
+  "confusion_matrix": [
+    [
+      7,
+      7,
+      1,
+      0
+    ],
+    [
+      0,
+      11,
+      4,
+      0
+    ],
+    [
+      0,
+      2,
+      8,
+      5
+    ],
+    [
+      0,
+      2,
+      2,
+      11
+    ]
+  ]
+}
